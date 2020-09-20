@@ -8,3 +8,7 @@ Link: [Problem 1](https://projecteuler.net/problem=1)
 # Problem 2 - Fibonacci Sequence 
 Find the sum of even fibonnaci sequence  where the value of the fibonacci sequence should not exceed 4 million.
 Link: [Problem 2](https://projecteuler.net/problem=2)
+
+# Problem 3 - Largest Prime Factor
+The prime factors of 13195 are 5, 7, 13 and 29. What is the largest prime factor of the number 600851475143?
+Link: [Problem 3](https://projecteuler.net/problem=3)
