@@ -16,3 +16,6 @@ Link: [Problem 3](https://projecteuler.net/problem=3)
 ## Problem 4 - Largest Palindrome Number
 Find the largest Palindrome number of two three digits number multiplied
 Link: [Problem 4](https://projecteuler.net/problem=4)
+
+## Problem 5 Smallest Multiple
+2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder. What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20? Link: [Problem 5](https://projecteuler.net/problem=5)
