@@ -24,7 +24,10 @@ Link: [Problem 4](https://projecteuler.net/problem=4)
 Link: [Problem 6](https://projecteuler.net/problem=6)
 
 ## Problem 7 - 10001st prime
-
 By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.
-
 What is the 10,001st prime number?
+Link: [Problem 7](https://projecteuler.net/problem=7)
+
+## Problem 8 - Largest Product in series
+Link: [Problem 8](https://projecteuler.net/problem=8)
+
