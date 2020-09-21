@@ -41,3 +41,8 @@ There exists exactly one Pythagorean triplet for which a + b + c = 1000.
 Find the product abc.
 Link: [Problem 9](https://projecteuler.net/problem=9)
 
+## Problem 10 - Summation of Primes
+The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
+
+Find the sum of all the primes below two million.
+Link: [Problem 10](https://projecteuler.net/problem=10)
