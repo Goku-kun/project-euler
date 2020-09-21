@@ -31,3 +31,13 @@ Link: [Problem 7](https://projecteuler.net/problem=7)
 ## Problem 8 - Largest Product in series
 Link: [Problem 8](https://projecteuler.net/problem=8)
 
+## Problem 9 - Special Pythogorean Triplet
+A Pythagorean triplet is a set of three natural numbers, a < b < c, for which,
+
+a2 + b2 = c2
+For example, 32 + 42 = 9 + 16 = 25.
+
+There exists exactly one Pythagorean triplet for which a + b + c = 1000.
+Find the product abc.
+Link: [Problem 9](https://projecteuler.net/problem=9)
+
